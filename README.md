@@ -17,7 +17,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-4404025a/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/Abhishe19192111)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=abhisheky2095&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=abhisheky2095&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 
 
