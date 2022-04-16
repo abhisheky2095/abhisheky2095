@@ -13,6 +13,8 @@
 
 - :zap: I love programming
 - 🌱 I’m addicted to learning and growing every day
+- 🌱 I’m also very much concerned about Earth, Global warming is real and we are responsible for it.
+
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/abhishek-pandey-4404025a/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/Abhishe19192111)
